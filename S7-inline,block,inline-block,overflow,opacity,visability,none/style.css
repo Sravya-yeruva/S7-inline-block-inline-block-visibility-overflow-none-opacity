@@ -1,0 +1,77 @@
+#mainheading{
+    background-color:lightcyan;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:1.7rem;
+    border-radius:15px;
+    border:10px solid coral;
+    text-align:center;
+    box-shadow:10px 10px 10px black;
+    text-shadow:5px 5px 5px grey;
+}
+
+#Aliah{
+    background-color:brown;
+    color:black;
+    font-size:1.4rem;
+    width:150px;
+    border-radius:10px;
+    text-align:center;
+    padding:5px;
+}
+
+#Aliapic{
+    width:300px;
+    height:300px;
+    opacity:0.8;
+}
+
+#Aliap{
+    background-color:lightpink;
+    color:blue;
+    width:400px;
+    height:300px;
+    display:inline-block;
+    text-align:justify;
+    overflow:auto;
+}
+
+#Anushkah{
+    background-color:orangered;
+    color:black;
+    font-size:1.4rem;
+    width:200px;
+    border-radius:10px;
+    text-align:center;
+    padding:5px;
+}
+
+#Anushkap{
+    background-color:lightskyblue;
+    color:black;
+    width:400px;
+    height:300px;
+    display:inline-block;
+    text-align:justify;
+    overflow:auto;
+
+}
+
+#deepikah{
+    background-color:crimson;
+    color:black;
+    font-size:1.4rem;
+    width:200px;
+    border-radius:10px;
+    text-align:center;
+    padding:5px;
+
+}
+
+#deepikap{
+    background-color:lightpink;
+    color:black;
+    visibility:hidden;
+    display:none;
+
+}
